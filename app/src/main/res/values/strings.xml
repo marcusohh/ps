@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ps</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="cal">CALCULATE</string>
+    <string name="res">RESET DATA</string>
+</resources>
